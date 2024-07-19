@@ -1,0 +1,20 @@
+#heading{
+    color: blue;
+    background-color: yellow;
+}
+
+.para {
+    color: red;
+}
+
+.heading{
+    color: green;
+}
+
+.btn{
+    background-color: blueviolet; color: white;
+}
+
+#btn{
+    background-color: brown;
+}
